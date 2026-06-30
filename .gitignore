@@ -6,3 +6,5 @@ __pycache__/
 _build/
 _build_cache/
 .myst/
+bun.lock
+node_modules/
