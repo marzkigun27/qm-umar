@@ -1,4 +1,4 @@
 {
-  "buildCommand": "pip install -r requirements.txt && jupyter-book build --html",
+  "buildCommand": "pip install -r requirements.txt && npm install -g mystmd && myst build --html",
   "outputDirectory": "_build/html"
 }
